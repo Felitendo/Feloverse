@@ -1,6 +1,6 @@
 A Public List of all the Websites and Projects I'm hosting
 
-# Felo Projects
+# The Feloverse
 
 ## [cloud.felo.gg](https://cloud.felo.gg) (Felo Cloud)
 Felo Cloud is a cloud storage service designed to securely store and share your files online.
