@@ -1,4 +1,3 @@
-# felo.gg
 A Public List of all the Websites and Projects I'm selfhostin
 
 ## [cloud.felo.gg](https://cloud.felo.gg) (Felo Cloud)
