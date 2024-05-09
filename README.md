@@ -18,6 +18,7 @@ Felo Docs is a documentation platform for organizing and sharing project documen
 
 - Status: Public
 - [![Online](https://img.shields.io/website?url=https%3A%2F%2Fdocs.felo.gg&label=Availability)](https://docs.felo.gg)
+- Note: Will be up again once [Pelican Panel](https://pelican.dev)
 
 ## [collab.felo.gg](https://collab.felo.gg) (Felo Collab)
 Felo Collab is a private collaboration platform for teams to work together effectively.
