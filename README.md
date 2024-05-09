@@ -8,7 +8,7 @@ Felo Cloud is a cloud storage service designed to securely store and share your 
 - [![Online](https://img.shields.io/website?url=https%3A%2F%2Fcloud.felo.gg&label=Availability)](https://cloud.felo.gg)
 
 ## [share.felo.gg](https://share.felo.gg) (Felo Share)
-Felo Share is a platform for sharing files and collaborating with others online.
+Felo Share is a platform for sharing files up to 30GB with others.
 
 - Status: Public
 - [![Online](https://img.shields.io/website?url=https%3A%2F%2Fshare.felo.gg&label=Availability)](https://share.felo.gg)
