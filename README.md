@@ -1,5 +1,5 @@
 # Feloverse
-A Public List of all the Websites and Projects I'm hosting
+A Public List of all the Websites and Projects I'm hosting. This list will most likely be replaced with Homarr on the root domain (https://felo.gg).
 
 ## [cloud.felo.gg](https://cloud.felo.gg) (Felo Cloud)
 Felo Cloud is a cloud storage service designed to securely store and share your files online.
